@@ -3,10 +3,7 @@
 #include <stdlib.h>
 #include <termcap.h>
 
- // TO DO:
-/*
-* Fix the frame rate and duration thing. Shouldn't be too hard
-*/
+
 #define WIDTH 25
 #define HEIGHT 50
 #define clear_screen() printf("\033[H\033[J")
