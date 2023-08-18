@@ -13,7 +13,7 @@ char DEFAULT_BALL_SHAPE = 'O';
 int DEFAULT_BALL_X_POS = 5;
 int DEFAULT_BALL_Y_POS = 0;
 int DURATION_PER_FRAME = 1000; // milliseconds
-int DEFAULT_DURATION_OF_FRAMES = 10;
+int DEFAULT_DURATION_OF_FRAMES = 50; // microseconds
 
 
 typedef struct Ball {
